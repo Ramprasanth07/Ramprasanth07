@@ -10,10 +10,13 @@
 - [Python ATM](https://github.com/Ramprasanth07/python-atm) — A colorful ATM simulator with Python backend and an interactive HTML/CSS/JS web frontend (PIN login, withdraw, deposit, balance check, mini statement).
 
 ### 📊 GitHub Stats
-
-
 ![Ramprasanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramprasanth07&show_icons=true&theme=radical)
 
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramprasanth07&layout=compact&theme=radical)
 
 
 ### 📫 Reach me
