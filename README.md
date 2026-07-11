@@ -7,6 +7,7 @@
 
 ### 📌 Projects
 - **[Number Guess Game](https://github.com/Ramprasanth07/Number-Guess-Game)** — A Python-based number guessing game with random number generation and user input handling.
+- - [Python ATM](https://github.com/Ramprasanth07/python-atm) — A colorful ATM simulator with Python backend and an interactive HTML/CSS/JS web frontend (PIN login, withdraw, deposit, balance check, mini statement).
 
 ### 📊 GitHub Stats
 
